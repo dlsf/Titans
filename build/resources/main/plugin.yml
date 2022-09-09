@@ -1,0 +1,15 @@
+main: net.dasunterstrich.aot.AttackOnTitan
+name: AttackOnTitan
+version: '1.0'
+api-version: '1.18'
+author: 'das_'
+depend:
+  - ProtocolLib
+
+commands:
+  aotitem:
+    description: Gibt eines der AOT-Items
+  spawntitan:
+    description: Erschaffe einen neuen Titanen
+  aotspawner:
+    description: Verwalte Titanen-Spawner
